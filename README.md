@@ -20,7 +20,7 @@
 1. Клонируйте репозиторий и перейдите в его каталог:
 
 ```bash
-git clone <URL_вашего_репозитория>
+git clone <URL-репозитория>
 cd expert_report_analysis
 ```
 
